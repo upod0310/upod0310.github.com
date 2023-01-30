@@ -1,8 +1,7 @@
 ---
 layout: post
-title: About
+title: about
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+한글 테스트
+....
